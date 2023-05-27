@@ -1,0 +1,22 @@
+/* css external */
+* {
+  margin: 0;
+  padding: 0;
+}
+/* call with tag name */
+body {
+  background-color: rgb(255, 50, 0);
+}
+/* call with id name */
+/* AltGr + " => # */
+#id1 {
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+/* call with class name */
+.partie {
+  border-color: #fffb00;
+  border-style: solid;
+  border-width: 2px;
+}
